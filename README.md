@@ -28,7 +28,7 @@ The conference center will cater for all meals, which are covered in the cost of
 
 # Program
 
-# Program is coming soon
+Program is coming soon
 
 # Talks 
 
