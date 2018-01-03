@@ -59,22 +59,16 @@ List of invited speakers is coming soon
 
 # Registered Participants
 
-- Elodie Choquet
-- Daniel Lenz
 - Max Millar-Blanchaer
 - Andreas Faisst
 - Jacqueline McCleary
-- Harish Vedantham
-- Siegfried Eggl
 - Decker French
 - Thomas Connor
-- Alex Merson
 - Bomee Lee
 - Albert Izar
 - Shahab Arabshah
-- Iary Davidzo
+- Iary Davidzon
 - Vikram Ravi
-- Abby Crites
 - Sebastian Kiehlmann
 - Ji Wang
 - Maria Charisi
@@ -82,27 +76,23 @@ List of invited speakers is coming soon
 - Marianne Heida
 - Cameron Hummels
 - Riley Connors
-- Georgia Panopoulou
 - Shea Garrison-Kimmel
 - Hannah Earnshaw
 - Virginie Faramaz
-- Marie Ygouf
 - Sean Mills
 - Arpita Roy
 - Abhishek Prakash
 - Trevor David
 - Anne Medling
-- Coral Wheeler
-- Nadia Blagorodnova
 - Eve Lee
 - Rosalie McGurk
 - Allison Strom
 - Garreth Ruane
 - Kirsten Larson
-- Alexander Ji
 - Tom Holoien
 - Johanna Teske
 - Maria Drout
+- Rohini Giles
 
 # Organizing Committee
 
